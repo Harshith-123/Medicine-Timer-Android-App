@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local config (contains SDK path - machine specific)
+local.properties
+
+# IDE files
+.idea/
+*.iml
+
+# Keystore / signing
+*.keystore
+*.jks
+
+# Firebase (if used)
+google-services.json
