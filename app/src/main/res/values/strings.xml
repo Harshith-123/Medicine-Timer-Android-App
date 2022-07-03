@@ -24,4 +24,6 @@
     <string name="no_taken_med_history">You have not taken any medicine</string>
     <string name="no_ignored_history">Well Done</string>
     <string name="menu_stats">Monthly Report</string>
+    <string name="snooze_label">Snooze</string>
+    <string name="cancel_label">Cancel</string>
 </resources>
